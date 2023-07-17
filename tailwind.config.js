@@ -8,6 +8,8 @@ export default {
   theme: {
     extend: {
       colors: {
+        nafbac: { 1: "#1D5D9B" },
+        naftext: { 1: "#F5F5F5" },
         primary: {
           50: "#eff6ff",
           100: "#dbeafe",
