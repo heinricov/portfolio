@@ -2,6 +2,58 @@
   margin-top: 3.7rem;
 }
 
+.NavCompo {
+  background-color: #242323;
+  position: fixed;
+  width: 100%;
+  top: 0;
+
+  .MyLogo {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    align-items: center;
+  }
+
+  .MyNavMenu {
+    ul {
+      font-weight: 500;
+      display: flex;
+      flex-direction: column;
+      padding: 1rem;
+      margin-top: 1rem;
+      border-width: 1px;
+      border-radius: 0.5rem;
+
+      @media (min-width: 768px) {
+        padding: 0px;
+        flex-direction: row;
+        margin-right: 2rem;
+        margin-left: 2rem;
+        margin-top: 0px;
+        border-width: 0px;
+      }
+
+      li {
+        a {
+          color: #fff;
+          display: block;
+          padding-left: 0.8rem;
+
+          @media (max-width: 428px) {
+            font-size: 1.3rem;
+          }
+
+          &:hover {
+            color: aqua;
+          }
+        }
+      }
+    }
+  }
+}
+
 .HeroCompo {
   font-weight: 900;
 
