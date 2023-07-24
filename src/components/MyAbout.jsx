@@ -6,76 +6,51 @@ const MyAbout = () => {
           <h1 class="mb-4 text-4xl font-bold tracking-tight leading-none text-gray-900 lg:mb-6 md:text-5xl xl:text-6xl dark:text-white">
             ABOUT
           </h1>
-          <p class="mb-8 font-light text-gray-500 lg:mb-16 sm:text-xl dark:text-gray-400">
-            Explore the whole collection of open-source web components and
-            elements built with the utility classes from Tailwind
-          </p>
         </div>
         <div class="grid mb-8 lg:mb-12 lg:grid-cols-2">
           <figure class="flex flex-col justify-center items-center p-8 text-center bg-gray-50 border-b border-gray-200 md:p-12 lg:border-r dark:bg-gray-800 dark:border-gray-700">
             <blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
               <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-                Speechless with how easy this was to integrate
+                hello, you can know me briefly here.
               </h3>
               <p class="my-4">
-                "I recently got my hands on Flowbite Pro, and holy crap, I'm
-                speechless with how easy this was to integrate within my
-                application. Most templates are a pain, code is scattered, and
-                near impossible to theme.
+                My full name is Heinricov Abraham Diego, I am the first son of
+                two brothers, I was born in the city of Batam Kep. Riau on June
+                29, 1993, I am a private employee at a company in the city of
+                Jakarta. My current position is in the accounting support team.
               </p>
               <p class="my-4">
-                Flowbite has code in one place and I'm not joking when I say it
-                took me a matter of minutes to copy the code, customise it and
-                integrate within a Laravel + Vue application.
+                I became interested in the world of web developers in 2017 when
+                I was in college and I saw my friends from the IT department
+                studying coding, since then I started studying independently.
               </p>
               <p class="my-4">
-                If you care for your time, I hands down would go with this."
+                although it is not easy to learn, for me the things that are
+                difficult to learn are the most interesting things to learn,
+                because by learning things that are difficult for us to
+                understand, we can easily understand things that are easier.
               </p>
             </blockquote>
-            <figcaption class="flex justify-center items-center space-x-3">
-              <img
-                class="w-9 h-9 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png"
-                alt="profile picture"
-              />
-              <div class="space-y-0.5 font-medium dark:text-white text-left">
-                <div>Bonnie Green</div>
-                <div class="text-sm font-light text-gray-500 dark:text-gray-400">
-                  Developer at Open AI
-                </div>
-              </div>
-            </figcaption>
           </figure>
           <figure class="flex flex-col justify-center items-center p-8 text-center bg-gray-50 border-b border-gray-200 md:p-12 dark:bg-gray-800 dark:border-gray-700">
             <blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
               <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-                Solid foundation for any project
+                Nothing Is Too Difficult.
               </h3>
               <p class="my-4">
-                "FlowBite provides a robust set of design tokens and components
-                based on the popular Tailwind CSS framework. From the most used
-                UI components like forms and navigation bars to the whole app
-                screens designed both for desktop and mobile, this UI kit
-                provides a solid foundation for any project.
+                I started my study in understanding the world of web programming
+                by learning the basics of HTML, CSS, JS through the YouTube
+                channel and blog, so I tried to make a simple website. continued
+                from there, after I learned the basics of making websites with
+                simple HTML, CSS, and JS, I started learning Frameworks like
+                React and NextJs.
               </p>
               <p class="my-4">
-                Designing with Figma components that can be easily translated to
-                the utility classes of Tailwind CSS is a huge timesaver!"
+                Until now I continue to develop my skills in my understanding of
+                the world of website programming, and I hope that my skills can
+                have a positive impact on those around me.
               </p>
             </blockquote>
-            <figcaption class="flex justify-center items-center space-x-3">
-              <img
-                class="w-9 h-9 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png"
-                alt="profile picture"
-              />
-              <div class="space-y-0.5 font-medium dark:text-white text-left">
-                <div>Roberta Casas</div>
-                <div class="text-sm font-light text-gray-500 dark:text-gray-400">
-                  Lead designer at Dropbox
-                </div>
-              </div>
-            </figcaption>
           </figure>
         </div>
       </div>
