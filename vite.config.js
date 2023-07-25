@@ -4,6 +4,6 @@ import { Flowbite } from "flowbite-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react(), Flowbite()],
+  plugins: [react()],
   base: "/portfolio/",
 });
